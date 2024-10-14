@@ -1,0 +1,371 @@
+
+
+.start{
+
+    display: flex;
+
+    background-color:rgb(7, 7, 33);
+
+    color: #ffffff;
+
+    justify-content: space-between;
+
+    margin-left: 100px;
+
+    margin-right: 100px;
+
+}
+
+.first{
+
+    width: 90%;
+
+}
+
+
+
+h3{
+
+    padding-right: 25px;
+
+     
+
+}
+
+.start div{
+
+padding-left: 100px;
+
+
+
+display: flex;
+
+}
+
+
+
+.one{
+
+ background-color: rgb(241, 240, 240);
+
+ display: flex;
+
+ justify-content: space-around;
+
+ text-align: left;
+
+ margin-left: 100px;
+
+    margin-right: 100px;
+
+}
+
+.OS{
+
+    color: green;
+
+}
+
+
+
+.OS2{
+
+    text-align: center;
+
+}
+
+.OS1{
+
+    width: 600px;
+
+}
+
+
+
+.container {
+
+    display: flex;
+
+    flex-wrap: wrap;
+
+    width: 600px;
+
+    margin: 0 auto;
+
+    
+
+}
+
+
+
+.container div{
+
+    width: 200px; 
+
+    
+
+}
+
+
+
+.three{
+
+    display: flex;
+
+    background-color: ghostwhite;
+
+    margin-left: 100px;
+
+    margin-right: 100px;
+
+    justify-content: center;
+
+    padding: 30px;
+
+}
+
+.TO{
+
+    text-align: left;
+
+    width: 500px;
+
+}
+
+.ex{
+
+    text-align: center;
+
+    background-color: rgb(232, 230, 230);
+
+    margin-left: 100px;
+
+    margin-right: 100px;
+
+}
+
+.four{
+
+   
+
+    background-color: rgb(243, 241, 241);
+
+    height: 600px;
+
+    margin-left: 100px;
+
+margin-right: 100px;
+
+text-align: center;
+
+
+
+}
+
+
+
+.FO1{
+
+padding: 50px;
+
+width: 400px;
+
+height: 500px;
+
+justify-content: space-between;
+
+text-align: left;
+
+display: flex;
+
+margin-left: 200px;
+
+    
+
+}
+
+
+
+.five{
+
+    display: flex;
+
+    margin-left: 100px;
+
+    margin-right: 100px;
+
+}
+
+.FO{
+
+ 
+
+    padding: 100px;
+
+    text-align: left;
+
+
+
+
+
+}
+
+.last{
+
+    display: flex;
+
+    background-color: rgb(34, 34, 44);
+
+    color: white;
+
+    justify-content: space-around;
+
+    margin-left: 100px;
+
+    margin-right: 100px;
+
+    
+
+}
+
+.last div{
+
+width: 200px;
+
+}
+
+.ku,.ga,.th,.ee,.sa{
+
+height: 100px;
+
+width: 100px !important;
+
+background:rgb(239, 238, 238);
+
+padding: 20px;
+
+border-radius: 100%;
+
+display: flex;
+
+align-items: center;
+
+justify-content: center;
+
+margin-left: 25px;
+
+}
+
+.nv{
+
+    height: 100px;
+
+    width: 100px !important;
+
+    background:rgb(239, 238, 238);
+
+    padding: 20px;
+
+    border-radius: 100%;
+
+    display: flex;
+
+    align-items: start;
+
+    justify-content: start;
+
+    margin-left: 25px; 
+
+   
+
+}
+
+.vk{
+
+    text-align: end;
+
+}
+
+.three button{
+
+   border-radius: 20px;
+
+   background-color: rgb(165, 196, 196); 
+
+   width: 100px;
+
+   color: black;
+
+   border: 10px;
+
+}
+
+.vil{
+
+    background-color: white;
+
+    
+
+}
+
+.new{
+
+    text-align: left;
+
+}
+
+.one button{
+
+    border-radius: 20px;
+
+   background-color: rgb(160, 198, 198); 
+
+   width: 100px;
+
+   color: black;
+
+   border: 10px;
+
+}
+
+.vil button,.new button,.FO button{
+
+    border-radius: 20px;
+
+   background-color: rgb(154, 240, 240); 
+
+   width: 100px;
+
+   color: black;
+
+   border: 10px;
+
+}
+
+.okk{
+
+    display: flex;
+
+align-items: center;
+
+}
+
+
+
+
+
+input{
+
+    height: 50px;
+
+    background-color:rgb(234, 231, 231);
+
+}
+
+textarea{
+
+    height: 60px;
+
+    background-color:rgb(234, 231, 231);
+
+}
